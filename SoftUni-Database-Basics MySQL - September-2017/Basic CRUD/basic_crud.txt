@@ -1,0 +1,32 @@
+SELECT id,first_name,last_name,job_title FROM employees ORDER BY id;
+-------------------1
+SELECT id, concat(`first_name`,' ',`last_name`) AS 'full_name',`job_title` AS
+'job_title', `salary` AS 'salary' FROM employees WHERE salary > 1000.00
+ORDER BY id;
+-----------------2
+UPDATE employees
+SET salary = salary*1.1 
+WHERE job_title = "Therapist";
+SELECT salary FROM employees ORDER BY salary ASC;
+-------------3
+USE hospital;
+CREATE VIEW `v_top_paid` AS 
+SELECT * FROM employees AS e ORDER BY salary DESC LIMIT 1;
+SELECT * FROM `v_top_paid`;
+------------4
+CREATE VIEW `v_top_paid_in_dep_4` AS
+SELECT * FROM employees AS e WHERE department_id = 4 AND e.salary >= 1600
+ORDER BY id;
+SELECT * FROM `v_top_paid_in_dep_4`;
+-----------5
+DELETE FROM employees
+WHERE department_id = 2 OR department_id = 1;
+SELECT * FROM employees ORDER BY id;
+-----------6
+SELECT concat(`first_name`,' ',`middle_name`,' ',`last_name`)
+AS 'full_name' FROM employees WHERE salary = 25000 OR salary = 14000 
+OR salary = 12500 OR salary = 23600 ORDER BY employee_id;
+------------7
+SELECT first_name,last_name FROM employees
+WHERE manager_id IS NULL;
+-------------8

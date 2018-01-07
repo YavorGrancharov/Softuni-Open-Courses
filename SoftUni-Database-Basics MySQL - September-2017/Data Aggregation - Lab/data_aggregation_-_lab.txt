@@ -1,0 +1,18 @@
+SELECT department_id, count(id) AS 'Count' FROM employees AS e 
+GROUP BY e.department_id ORDER BY e.department_id ASC;
+------------1
+SELECT department_id, ROUND(AVG(salary),2) FROM employees AS e
+GROUP BY department_id ORDER BY department_id;
+-----------2
+SELECT department_id, ROUND(MIN(salary),2) AS `Min Salary`
+FROM employees AS e GROUP BY department_id
+HAVING `Min Salary` > 800;
+----------3
+SELECT count(id) FROM products AS p
+WHERE category_id = 2 AND price > 8
+GROUP BY category_id;
+----------4
+SELECT category_id, ROUND(AVG(price),2) AS `Average Price`,
+ROUND(MIN(price),2) AS `Cheapest Product`, 
+ROUND(MAX(price),2) AS `Most Expensive Product`
+FROM products AS p GROUP BY category_id;
