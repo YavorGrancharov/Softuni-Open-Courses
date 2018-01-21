@@ -1,0 +1,7 @@
+C:\Users\Lalka\source\repos\Sequence N-M\Sequence N-M\bin\Debug\Sequence N-M.exe.config
+C:\Users\Lalka\source\repos\Sequence N-M\Sequence N-M\bin\Debug\Sequence N-M.exe
+C:\Users\Lalka\source\repos\Sequence N-M\Sequence N-M\bin\Debug\Sequence N-M.pdb
+C:\Users\Lalka\source\repos\Sequence N-M\Sequence N-M\obj\Debug\Sequence N-M.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\source\repos\Sequence N-M\Sequence N-M\obj\Debug\Sequence N-M.csproj.CoreCompileInputs.cache
+C:\Users\Lalka\source\repos\Sequence N-M\Sequence N-M\obj\Debug\Sequence N-M.exe
+C:\Users\Lalka\source\repos\Sequence N-M\Sequence N-M\obj\Debug\Sequence N-M.pdb
