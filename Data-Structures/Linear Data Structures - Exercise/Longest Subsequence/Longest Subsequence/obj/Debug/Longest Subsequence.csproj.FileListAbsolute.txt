@@ -1,7 +1,0 @@
-C:\Users\Lalka\source\repos\Longest Subsequence\Longest Subsequence\bin\Debug\Longest Subsequence.exe.config
-C:\Users\Lalka\source\repos\Longest Subsequence\Longest Subsequence\bin\Debug\Longest Subsequence.exe
-C:\Users\Lalka\source\repos\Longest Subsequence\Longest Subsequence\bin\Debug\Longest Subsequence.pdb
-C:\Users\Lalka\source\repos\Longest Subsequence\Longest Subsequence\obj\Debug\Longest Subsequence.csprojResolveAssemblyReference.cache
-C:\Users\Lalka\source\repos\Longest Subsequence\Longest Subsequence\obj\Debug\Longest Subsequence.csproj.CoreCompileInputs.cache
-C:\Users\Lalka\source\repos\Longest Subsequence\Longest Subsequence\obj\Debug\Longest Subsequence.exe
-C:\Users\Lalka\source\repos\Longest Subsequence\Longest Subsequence\obj\Debug\Longest Subsequence.pdb

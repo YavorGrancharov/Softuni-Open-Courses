@@ -1,7 +1,0 @@
-C:\Users\Lalka\source\repos\Calculate Sequence\Calculate Sequence\bin\Debug\Calculate Sequence.exe.config
-C:\Users\Lalka\source\repos\Calculate Sequence\Calculate Sequence\bin\Debug\Calculate Sequence.exe
-C:\Users\Lalka\source\repos\Calculate Sequence\Calculate Sequence\bin\Debug\Calculate Sequence.pdb
-C:\Users\Lalka\source\repos\Calculate Sequence\Calculate Sequence\obj\Debug\Calculate Sequence.csproj.CoreCompileInputs.cache
-C:\Users\Lalka\source\repos\Calculate Sequence\Calculate Sequence\obj\Debug\Calculate Sequence.exe
-C:\Users\Lalka\source\repos\Calculate Sequence\Calculate Sequence\obj\Debug\Calculate Sequence.pdb
-C:\Users\Lalka\source\repos\Calculate Sequence\Calculate Sequence\obj\Debug\Calculate Sequence.csprojResolveAssemblyReference.cache

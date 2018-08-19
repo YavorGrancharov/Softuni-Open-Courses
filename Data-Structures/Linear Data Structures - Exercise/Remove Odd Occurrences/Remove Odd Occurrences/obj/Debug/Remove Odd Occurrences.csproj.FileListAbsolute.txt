@@ -1,7 +1,0 @@
-C:\Users\Lalka\source\repos\Remove Odd Occurrences\Remove Odd Occurrences\bin\Debug\Remove Odd Occurrences.exe.config
-C:\Users\Lalka\source\repos\Remove Odd Occurrences\Remove Odd Occurrences\bin\Debug\Remove Odd Occurrences.exe
-C:\Users\Lalka\source\repos\Remove Odd Occurrences\Remove Odd Occurrences\bin\Debug\Remove Odd Occurrences.pdb
-C:\Users\Lalka\source\repos\Remove Odd Occurrences\Remove Odd Occurrences\obj\Debug\Remove Odd Occurrences.csprojResolveAssemblyReference.cache
-C:\Users\Lalka\source\repos\Remove Odd Occurrences\Remove Odd Occurrences\obj\Debug\Remove Odd Occurrences.csproj.CoreCompileInputs.cache
-C:\Users\Lalka\source\repos\Remove Odd Occurrences\Remove Odd Occurrences\obj\Debug\Remove Odd Occurrences.exe
-C:\Users\Lalka\source\repos\Remove Odd Occurrences\Remove Odd Occurrences\obj\Debug\Remove Odd Occurrences.pdb

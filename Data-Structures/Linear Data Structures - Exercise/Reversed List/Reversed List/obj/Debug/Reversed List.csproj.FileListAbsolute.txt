@@ -1,7 +1,0 @@
-C:\Users\Lalka\source\repos\Reversed List\Reversed List\obj\Debug\Reversed List.csprojResolveAssemblyReference.cache
-C:\Users\Lalka\source\repos\Reversed List\Reversed List\obj\Debug\Reversed List.csproj.CoreCompileInputs.cache
-C:\Users\Lalka\source\repos\Reversed List\Reversed List\bin\Debug\Reversed List.exe.config
-C:\Users\Lalka\source\repos\Reversed List\Reversed List\bin\Debug\Reversed List.exe
-C:\Users\Lalka\source\repos\Reversed List\Reversed List\bin\Debug\Reversed List.pdb
-C:\Users\Lalka\source\repos\Reversed List\Reversed List\obj\Debug\Reversed List.exe
-C:\Users\Lalka\source\repos\Reversed List\Reversed List\obj\Debug\Reversed List.pdb
