@@ -1,7 +1,0 @@
-C:\Users\Lalka\source\repos\Sum and Average\Sum and Average\bin\Debug\Sum and Average.exe.config
-C:\Users\Lalka\source\repos\Sum and Average\Sum and Average\bin\Debug\Sum and Average.exe
-C:\Users\Lalka\source\repos\Sum and Average\Sum and Average\bin\Debug\Sum and Average.pdb
-C:\Users\Lalka\source\repos\Sum and Average\Sum and Average\obj\Debug\Sum and Average.csprojResolveAssemblyReference.cache
-C:\Users\Lalka\source\repos\Sum and Average\Sum and Average\obj\Debug\Sum and Average.csproj.CoreCompileInputs.cache
-C:\Users\Lalka\source\repos\Sum and Average\Sum and Average\obj\Debug\Sum and Average.exe
-C:\Users\Lalka\source\repos\Sum and Average\Sum and Average\obj\Debug\Sum and Average.pdb

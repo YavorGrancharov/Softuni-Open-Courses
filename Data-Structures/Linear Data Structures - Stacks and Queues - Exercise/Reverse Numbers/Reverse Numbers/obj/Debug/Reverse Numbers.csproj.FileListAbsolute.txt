@@ -1,7 +1,0 @@
-C:\Users\Lalka\source\repos\Reverse Numbers\Reverse Numbers\bin\Debug\Reverse Numbers.exe.config
-C:\Users\Lalka\source\repos\Reverse Numbers\Reverse Numbers\bin\Debug\Reverse Numbers.exe
-C:\Users\Lalka\source\repos\Reverse Numbers\Reverse Numbers\bin\Debug\Reverse Numbers.pdb
-C:\Users\Lalka\source\repos\Reverse Numbers\Reverse Numbers\obj\Debug\Reverse Numbers.csprojResolveAssemblyReference.cache
-C:\Users\Lalka\source\repos\Reverse Numbers\Reverse Numbers\obj\Debug\Reverse Numbers.csproj.CoreCompileInputs.cache
-C:\Users\Lalka\source\repos\Reverse Numbers\Reverse Numbers\obj\Debug\Reverse Numbers.exe
-C:\Users\Lalka\source\repos\Reverse Numbers\Reverse Numbers\obj\Debug\Reverse Numbers.pdb
