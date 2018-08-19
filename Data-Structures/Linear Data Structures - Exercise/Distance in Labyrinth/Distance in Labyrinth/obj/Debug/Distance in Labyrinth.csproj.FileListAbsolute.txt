@@ -1,0 +1,7 @@
+C:\Users\Lalka\source\repos\Distance in Labyrinth\Distance in Labyrinth\bin\Debug\Distance in Labyrinth.exe.config
+C:\Users\Lalka\source\repos\Distance in Labyrinth\Distance in Labyrinth\bin\Debug\Distance in Labyrinth.exe
+C:\Users\Lalka\source\repos\Distance in Labyrinth\Distance in Labyrinth\bin\Debug\Distance in Labyrinth.pdb
+C:\Users\Lalka\source\repos\Distance in Labyrinth\Distance in Labyrinth\obj\Debug\Distance in Labyrinth.csprojResolveAssemblyReference.cache
+C:\Users\Lalka\source\repos\Distance in Labyrinth\Distance in Labyrinth\obj\Debug\Distance in Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\Lalka\source\repos\Distance in Labyrinth\Distance in Labyrinth\obj\Debug\Distance in Labyrinth.exe
+C:\Users\Lalka\source\repos\Distance in Labyrinth\Distance in Labyrinth\obj\Debug\Distance in Labyrinth.pdb
